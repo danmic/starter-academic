@@ -75,4 +75,4 @@ I am a Research Assistant at [Aalborg University](https://www.en.aau.dk) (AAU). 
 I received my PhD degree from AAU in 2021. Before starting my PhD project, I got a Bachelor's in Computer Science and Electronic Engineering at the [University of Perugia](https://www.unipg.it/en/), and a Master's in Vision, Graphics and Interactive Systems at Aalborg University, where I worked on several projects, including one on biometrics in collaboration with [Fingerprint Cards](https://www.fingerprints.com). I have also worked as an intern at [Bang & Olufsen](https://www.bang-olufsen.com/en).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
