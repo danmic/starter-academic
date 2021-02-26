@@ -1,31 +1,31 @@
 ---
-title: Example Talk
+title: Audio-Visual Speech Enhancement and Separation Based on Deep Learning
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: ICASSP 2021
+event_url: https://2021.ieeeicassp.org/Tutorials.asp#5
 
-location: Wowchemy HQ
+location: Toronto, Ontario, 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street:
+  city:
+  region:
+  postcode:
+  country: Canada
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Tutorial about recent advances in audio-visual speech enhancement and separation
+abstract: "During a conversation, humans use both sight and hearing in order to focus on the speaker of interest . Despite this evidence, traditional speech enhancement and separation algorithms rely only on acoustic speech signals. Although the advances in deep learning allowed these algorithms to reach high performance, speech enhancement and separation systems still struggle in situations where the background noise level is high, limited by the use of a single modality. Therefore, recent works investigated the possibility of including visual information from the speaker of interest to perform speech enhancement and separation. In this tutorial, we will provide an overview of deep-learning-based techniques used for audio-visual speech enhancement and separation. Specifically, we will consider how the field evolved from the first single-microphone speaker-dependent systems to the current state of the art. In addition, several demos developed to showcase our research in the field will be shown. The tutorial is intended to highlight the potential of this emergent research topic with two aims: helping beginners to navigate through the large number of approaches in the literature; inspiring experts by providing insights and perspectives on current challenges and possible future research directions."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-06-06T00:00:00Z"
+# date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [Daniel Michelsanti][Zheng-Hua Tan][Jesper Jensen][Dong Yu]
+tags: [speech enhancement][speech separation][audio-visual][deep learning]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -38,7 +38,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/998match
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -49,15 +49,14 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+projects = []
 ---
 
 {{% callout note %}}
