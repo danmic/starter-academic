@@ -39,7 +39,6 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/998match
-url_info: "https://2021.ieeeicassp.org/Tutorials.asp#5"
 url_code: ""
 url_pdf: ""
 url_slides: ""
