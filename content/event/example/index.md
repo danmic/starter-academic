@@ -4,7 +4,7 @@ title: Audio-Visual Speech Enhancement and Separation Based on Deep Learning
 event: ICASSP 2021
 event_url: https://2021.ieeeicassp.org/Tutorials.asp#5
 
-location: Toronto, Ontario, 
+location: Toronto 
 address:
   street:
   city:
@@ -22,7 +22,7 @@ date: "2021-06-06T00:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-02-26T00:00:00Z"
 
 authors: [Daniel Michelsanti][Zheng-Hua Tan][Jesper Jensen][Dong Yu]
 tags: [speech enhancement][speech separation][audio-visual][deep learning]
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides = ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
