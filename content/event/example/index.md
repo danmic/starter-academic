@@ -31,7 +31,7 @@ tags: [speech enhancement, speech separation, deep learning, audio-visual]
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ""
   focal_point: Right
 
 links:
