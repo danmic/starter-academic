@@ -72,4 +72,4 @@ highlight_name: false
 
 I am a Research Assistant at [Aalborg University](https://www.en.aau.dk), Denmark. Currently, I am working on a project regarding audio-visual speech enhancement in cooperation with [Oticon](https://www.oticon.com), hoping that my findings will improve the quality of life in people with a hearing loss.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/MiDa_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
