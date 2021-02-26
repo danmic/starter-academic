@@ -25,14 +25,14 @@ all_day: false
 publishDate: "2021-02-25T00:00:00Z"
 
 authors: [Daniel Michelsanti, Zheng-Hua Tan, Jesper Jensen, Dong Yu]
-tags: []
+tags: [speech enhancement, speech separation, deep learning, audio-visual]
 
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
 links:
 - icon: twitter
